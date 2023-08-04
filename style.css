@@ -1,0 +1,51 @@
+header {
+    background-color:saddlebrown;
+    background-attachment: fixed;
+    color: white;
+    text-align: center;
+    font-family:'Courier New', Courier, monospace;
+    font-style:normal;
+    font-size: larger;
+
+}
+
+body { 
+    background-image: url(imagem.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+
+.container{
+    font-family: Arial, Helvetica, sans-serif;
+    max-width: 300px;
+    background-color: saddlebrown;
+    padding: 20px;
+    border-radius: 10px;
+    color: white;
+    margin-left:auto;
+    padding-bottom:10px;
+    
+}
+
+input{
+    width: 100%;
+    display: block;
+    padding: 5px;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+}
+
+#resultado{
+    background-color:#f0ebae;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: justify;
+    max-width: 700px;
+    padding: 10px;
+    border-radius: 10px;
+    position: relative;
+    top: -320px
+    
+   
+}
